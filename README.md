@@ -1,7 +1,5 @@
 # Memory-game
-Memory-game BeCode exercise
-
-With HTML,CSS and JS
+Memory-game, made with HTML,CSS and vanilla JS
 
 Click the cards to find the replicas.
 
